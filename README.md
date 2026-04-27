@@ -54,3 +54,15 @@ Install the required libraries using:
 
 ```bash
 pip install -r requirements.txt
+
+## Output
+
+The processed files are saved inside the `processed_data` folder:
+
+- `X_train_processed.csv`
+- `X_test_processed.csv`
+- `y_train_log.csv`
+
+## Author
+
+Machine Learning Assignment 1
